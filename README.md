@@ -15,7 +15,7 @@
  </div>
  <br>
  
- #### proximas tecnologias em estudos
+ #### sequencia de tecnologias ainda em estudos
   <div>
    <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=black">
    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black">
