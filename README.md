@@ -2,8 +2,8 @@
 <div>
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/fabio-amorim-4545011a1)
-[![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com/fabio.amorim.988)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/Fabioamorim20)
+[![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black)](https://facebook.com/fabio.amorim.988)
 <hr>
 </div>
 
