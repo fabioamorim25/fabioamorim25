@@ -24,7 +24,7 @@
    <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" />      
    <br>
    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-   <img align="center" alt="firebase" src="https://firebase.google.com/static/images/brand-guidelines/logo-built_black.png?hl=pt-br" height="30" width="70"/>
+   <img align="center" alt="firebase" src="https://firebase.google.com/static/images/brand-guidelines/logo-built_black.png?hl=pt-br" height="30" width="85"/>
    <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
 </div>
 <br>
