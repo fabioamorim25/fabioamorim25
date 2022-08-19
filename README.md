@@ -8,34 +8,30 @@
 </div>
 
 <div align="center">
-
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioamorim25&show_icons=true&theme=codeSTACKr)
-  <br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioamorim25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="199em" src="https://github-readme-stats.vercel.app/api?username=fabioamorim25&show_icons=true&theme=codeSTACKr"/>
+  <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioamorim25&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
+<br>
 
-   <div align="center"> 
+<div> 
 
-### Tecnologias que eu uso no meu dia 
-  
+   #### Tecnologias que eu uso no meu dia
    <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/>
    <img align="center" alt="css3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"/>
    <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" />      
-   <br>
-   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-   <img align="center" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="30"/>
-   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">          
+   <img align="center" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40"/>   
+   <img align="center" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
+   <img align="center" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>       
 </div>
-<br>
      
  <div align="center">  
  <hr>
-
+ 
  #### sequencia de tecnologias ainda em estudos 
-   <img align="center" alt="mongo db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-   <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+   <img align="center" alt="mongo db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20">
+   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">
+   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="20">
+   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="20">
+   <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="20">
 </div>
