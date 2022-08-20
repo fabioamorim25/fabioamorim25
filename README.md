@@ -25,10 +25,12 @@
    <img align="center" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>       
 </div>
      
- <div align="center">  
+ <br>
+ 
+ <div>  
  <hr>
  
- #### sequencia de tecnologias ainda em estudos 
+  #### sequencia de tecnologias ainda em estudos 
    <img align="center" alt="mongo db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20">
    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">
    <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="20">
