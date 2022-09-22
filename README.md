@@ -34,6 +34,7 @@
   #### sequencia de tecnologias ainda em estudos 
    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">
    <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="20">
+   <img align="center" alt="next.js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jF8L3CKu6E1saw66CudVZiM9BAE7KlIbRnUQb9K9wDMx4j1Ckd-dgWUzoo4vuigsNA&usqp=CAU" height="20">
    <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="20">
    <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="20">
 </div>
