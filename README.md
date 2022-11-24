@@ -43,3 +43,9 @@
    <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="18">
    <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="18">
 </div>
+
+<br>
+<div align="center">
+  <img width="100px" src="https://profile-counter.glitch.me/fabioamorim25/count.svg">
+</div>
+  
