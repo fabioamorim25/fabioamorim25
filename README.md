@@ -35,7 +35,8 @@
 <div>  
 
 
-<hr>
+#
+  
  🚧 Sequencia de Tecnologias Ainda em Estudos:
    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="18">
    <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="18">
