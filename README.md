@@ -46,7 +46,5 @@
 </div>
 
 <br>
-<div align="center">
-  <img width="100px" src="https://profile-counter.glitch.me/fabioamorim25/count.svg">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabioamorim25&label=Profile%20views&color=0e75b6&style=flat" alt="fabioamorim25" /> </p>
   
