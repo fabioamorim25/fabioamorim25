@@ -18,6 +18,7 @@
   #### 🛠️ Tecnologias e ferramentas que uso no meu dia:
   <div>
      Front-End:
+    <img align="center" alt="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
     <img align="center" alt="html 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="48"/>-
     <img align="center" alt="css 3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="48"/>- 
     <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>- 
@@ -38,7 +39,6 @@
 #
   
  🚧 Sequencia de Tecnologias Ainda em Estudos:
-   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="18">
    <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="18">
    <img align="center" alt="next.js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jF8L3CKu6E1saw66CudVZiM9BAE7KlIbRnUQb9K9wDMx4j1Ckd-dgWUzoo4vuigsNA&usqp=CAU" height="18">
    <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="18">
