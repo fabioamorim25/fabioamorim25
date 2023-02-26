@@ -11,8 +11,6 @@ paixão ardente pela programação. Onde no futuro, pretendo passar adiante os a
 
 💬 caso queira conversa, ou fazer alguma pergunta. Essas são minhas redes sociais:
 <div>
-  <a href="amorimpg1996@gmail.com" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-purple?style=flat-square&labelColor=purple&logo=Discord&logoColor=white&" /></a>
 <a href="https://www.linkedin.com/in/f%C3%A1bio-amorim-4545011a1/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 <a href="https://facebook.com/fabio.amorim.988" alt="Facebook">
