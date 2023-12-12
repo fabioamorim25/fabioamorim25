@@ -13,8 +13,6 @@ paixão ardente pela programação. Onde no futuro, pretendo passar adiante os a
 <div>
 <a href="https://www.linkedin.com/in/f%C3%A1bio-amorim-4545011a1/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-<a href="https://facebook.com/fabio.amorim.988" alt="Facebook">
-<img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 <a href="https://instagram.com/Fabioamorim20" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </div>  
