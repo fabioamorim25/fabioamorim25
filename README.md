@@ -2,7 +2,7 @@
 
 ## Olá, meu nome é <strong>Fábio Amorim</strong>🔭
 Programador FULL-STACK há 2 ano com foco nas tecnologias de desenvolvimento web & futuramente mobile. Atualmente estou 
-terminado a graduação de engenharia de controle e automação, mais com foco em programação.
+terminado a graduação de engenharia de controle e automação (uniFanor-Dunas), mais com foco em programação.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fabioamorim25&label=Profile%20views&color=0e75b6&style=flat" alt="fabioamorim25" /></p>
 
