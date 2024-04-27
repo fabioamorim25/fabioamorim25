@@ -41,7 +41,6 @@ terminado a graduação de Engenharia de Controle e Automação (Fortaleza UniFa
 <code><img height="32" src="https://skillicons.dev/icons?i=sequelize" alt="sequelize"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=prisma" alt="prisma"/></code>
 
-<code><img height="32" src="https://skillicons.dev/icons?i=lua" alt="lua"/></code>
 
 ## 💼 Ferramentas
 
