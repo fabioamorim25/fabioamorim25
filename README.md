@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ## Olá, meu nome é <strong>Fábio Amorim</strong>🔭
-Programador FULL-STACK há 2 ano com foco nas tecnologias de desenvolvimento web & futuramente mobile. Atualmente estou 
+Programador FULL-STACK há 4 ano com foco nas tecnologias de desenvolvimento web & futuramente mobile. Atualmente estou 
 terminado a graduação de Engenharia de Controle e Automação (Fortaleza UniFanor-Dunas), mais com foco em programação.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fabioamorim25&label=Profile%20views&color=0e75b6&style=flat" alt="fabioamorim25" /></p>
